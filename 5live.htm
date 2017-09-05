@@ -1,0 +1,55 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>期待影院网络电视 - QQ:578975936</title>
+<script language="JavaScript">
+<!--
+document.oncontextmenu=new Function("event.returnValue=false;"); 
+document.onselectstart=new Function("event.returnValue=false;"); 
+document.ondragstart=new Function("event.returnValue=false;"); 
+function killErrors()
+{
+return true;
+}
+
+window.onerror = killErrors;
+
+function showsubmenu(){
+	whichEl = eval("haoe_list");
+	if (whichEl.style.display == "none") {
+		eval("haoe_list.style.display=\"\";");	
+		idFlag.innerHTML = "<img src='barClose.gif' title='隐藏'>";
+	}
+	else {
+		eval("haoe_list.style.display=\"none\";");
+		idFlag.innerHTML = "<img src='barOpen.gif' title='显示'>";
+	}
+}
+
+// -->
+</script>
+<style type="text/css">
+<!--
+body {
+	margin: 0px;
+	background-color: #000000;
+}
+body,td,th {
+	font-size: 12px;
+	color: #FFFFFF;
+}
+-->
+</style>
+</head>
+<body style="overflow-x:hidden;overflow-y:hidden" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table  width="100%" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td><iframe id="pptvplay" name="pptvplay" frameborder="0" src="5pptv.htm"  width="100%" height="100%" SCROLLING="NO" border="0" ></iframe></td>
+    <td width="5" bgcolor="#191D23" style="cursor:hand" onClick="showsubmenu()"><span id="idFlag"><img src="barClose.gif" alt="隐藏" width="5" height="48" id="jiantou"></span></td>
+    <td width="210" id="haoe_list">
+	<iframe id="pptvlb" frameborder="0" src="5pptv_list.htm" width="100%" height="100%" SCROLLING="yes" border="0" target="pptvplay" ></iframe></td>
+  </tr>
+</table>
+
+</body>
+</html>
