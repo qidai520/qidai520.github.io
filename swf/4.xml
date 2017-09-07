@@ -1,0 +1,194 @@
+﻿<list>
+<m label="直播">
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000b899" label="CCTV1"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000bc99" label="CCTV2"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000bf99" label="CCTV3"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000bk99" label="CCTV4"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000bp99" label="CCTV5"/>
+<m type="m3u8" src="http://221.181.100.117:8088/wd_r2/cctv/cctv5plus/1200/01.m3u8" label="CCTV5+"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000br99" label="CCTV6"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000bu99" label="CCTV7"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000bv99" label="CCTV8"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000bz99" label="CCTV9"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000c199" label="CCTV10"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000c499" label="CCTV11"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000c599" label="CCTV12"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000c699" label="CCTV13"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000ca99" label="CCTV14"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000cc99" label="CCTV15"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000d099" label="东方卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201702203000000ro13" label="红星卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="2017062230000006q99" label="浙江卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000cf99" label="湖南卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000ch99" label="湖南经视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000cm99" label="湖南公共"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000cn99" label="湖南电视剧"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000cq99" label="湖南电影"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000ct99" label="湖南国际"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000ck99" label="湖南都市"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000cu99" label="湖南导视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000cw99" label="湖南教育"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000cj99" label="湖南娱乐"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000cs99" label="金鹰卡通"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000cr99" label="金鹰纪实"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000dl99" label="北京卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000dj99" label="天津卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000de99" label="山东卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000dh99" label="江苏卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000d499" label="广东卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000cz99" label="深圳卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000cy99" label="四川卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000dd99" label="重庆卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000dq99" label="宁夏卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000dt99" label="旅游卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201706223000000du99" label="新疆卫视"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201704243000000wn19" label="安徽卫视HD"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="2016041430000013p13" label="福建将乐"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="2017011630000005d99" label="福建永安"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201606033000003fc13" label="福建邵武"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201703203000000mq13" label="福建泉港"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="2016072030000008o13" label="滦平新闻频道"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="2017020930000004m13" label="镇海综合"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="201701043000000a413" label="遵义新闻"/>
+<m rtmp="rtmp://r.gslb.lecloud.com/live/" src="2016101930000010899" label="黔东南凯里"/>
+<m type="m3u8" label="四海钓鱼HD" src="http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5HR01QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHMz/SHDYMPP360.m3u8"/>
+<m type="m3u8" label="快乐垂钓HD" src="http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5HR01QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHMz/KLCDMPP360.m3u8"/>
+<m type="m3u8" src="http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9WEZQWU1QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHM,/XFPYMPP360.m3u8" label="乒羽先锋"/>
+<m type="m3u8" src="http://live.zzbtv.com/live/live122/800K/tzwj_video.m3u8" label="株洲新闻综合"/>
+<m type="m3u8" src="http://live.zzbtv.com/live/live123/800K/tzwj_video.m3u8" label="株洲公共民生"/>
+<m type="m3u8" src="http://live.zzbtv.com/live/live124/800K/tzwj_video.m3u8" label="株洲法制频道"/>
+<m type="m3u8" src="http://live.zzbtv.com/live/live125/800K/tzwj_video.m3u8" label="株洲商务频道"/>
+<m type="m3u8" src="http://live.zzbtv.com/live/live127/800K/tzwj_video.m3u8" label="株洲生活频道"/>
+<m type="m3u8" src="http://live.zzbtv.com/live/live126/800K/tzwj_video.m3u8" label="株洲房产频道"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000b899/desc.m3u8" label="CCTV1"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000bc99/desc.m3u8" label="CCTV2"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000bf99/desc.m3u8" label="CCTV3"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000bk99/desc.m3u8" label="CCTV4"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000bp99/desc.m3u8" label="CCTV5"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000br99/desc.m3u8" label="CCTV6"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000bu99/desc.m3u8" label="CCTV7"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000bv99/desc.m3u8" label="CCTV8"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000bz99/desc.m3u8" label="CCTV9"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000c199/desc.m3u8" label="CCTV10"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000c499/desc.m3u8" label="CCTV11"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000c599/desc.m3u8" label="CCTV12"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000c699/desc.m3u8" label="CCTV13"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000ca99/desc.m3u8" label="CCTV14"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000cc99/desc.m3u8" label="CCTV15"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000d099/desc.m3u8" label="东方卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201702203000000ro13/desc.m3u8" label="红星卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/2017062230000006q99/desc.m3u8" label="浙江卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000cf99/desc.m3u8" label="湖南卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000ch99/desc.m3u8" label="湖南经视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000cm99/desc.m3u8" label="湖南公共"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000cn99/desc.m3u8" label="湖南电视剧"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000cq99/desc.m3u8" label="湖南电影"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000ct99/desc.m3u8" label="湖南国际"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000ck99/desc.m3u8" label="湖南都市"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000cu99/desc.m3u8" label="湖南导视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000cw99/desc.m3u8" label="湖南教育"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000cj99/desc.m3u8" label="湖南娱乐"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000cs99/desc.m3u8" label="金鹰卡通"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000cr99/desc.m3u8" label="金鹰纪实"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000dl99/desc.m3u8" label="北京卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000dj99/desc.m3u8" label="天津卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000de99/desc.m3u8" label="山东卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000dh99/desc.m3u8" label="江苏卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000d499/desc.m3u8" label="广东卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000cz99/desc.m3u8" label="深圳卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000cy99/desc.m3u8" label="四川卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000dd99/desc.m3u8" label="重庆卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000dq99/desc.m3u8" label="宁夏卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000dt99/desc.m3u8" label="旅游卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201706223000000du99/desc.m3u8" label="新疆卫视"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201704243000000wn19/desc.m3u8" label="安徽卫视HD"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/2016041430000013p13/desc.m3u8" label="福建将乐"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/2017011630000005d99/desc.m3u8" label="福建永安"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201606033000003fc13/desc.m3u8" label="福建邵武"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201703203000000mq13/desc.m3u8" label="福建泉港"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/2016072030000008o13/desc.m3u8" label="滦平新闻频道"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/2017020930000004m13/desc.m3u8" label="镇海综合"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/201701043000000a413/desc.m3u8" label="遵义新闻"/>
+<m type="m3u8" src="http://r.gslb.lecloud.com/live/hls/2016101930000010899/desc.m3u8" label="黔东南凯里"/>
+<m type="m3u8" src="http://111.13.42.8/PLTV/88888888/224/3221225942/index.m3u8" label="中文"/>
+<m type="m3u8" src="http://111.13.42.8/PLTV/88888888/224/3221225941/index.m3u8" label="资讯"/>
+<m type="m3u8" label="战旗影院1" src="http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8" />
+<m type="m3u8" label="战旗影院2" src="http://dlhls.cdn.zhanqi.tv/zqlive/20910_uUMgC.m3u8" />
+<m type="m3u8" label="战旗影院3" src="http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8" />
+<m type="m3u8" label="战旗影院4" src="http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8" />
+<m type="m3u8" label="战旗影院5" src="http://dlhls.cdn.zhanqi.tv/zqlive/75885_IvfFq.m3u8" />
+<m type="m3u8" label="战旗影院6" src="http://dlhls.cdn.zhanqi.tv/zqlive/45188_oT6Ed.m3u8" />
+<m type="m3u8" label="战旗影院7" src="http://dlhls.cdn.zhanqi.tv/zqlive/45338_MRc2N.m3u8" />
+<m type="m3u8" label="战旗影院8" src="http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8" />
+<m type="m3u8" label="战旗影院9" src="http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8" />
+<m type="m3u8" label="战旗影院10" src="http://dlhls.cdn.zhanqi.tv/zqlive/99815_VmbZY.m3u8" />
+<m type="m3u8" label="战旗影院11" src="http://dlhls.cdn.zhanqi.tv/zqlive/21333_CvnhE.m3u8" />
+<m type="m3u8" label="战旗影院12" src="http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8" />
+<m type="m3u8" label="战旗影院13" src="http://dlhls.cdn.zhanqi.tv/zqlive/40051_ruOu5.m3u8" />
+<m type="m3u8" label="战旗影院14" src="http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8" />
+<m type="m3u8" label="战旗影院15" src="http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8" />
+<m type="m3u8" label="战旗影院16" src="http://dlhls.cdn.zhanqi.tv/zqlive/132468_JylgL.m3u8" />
+<m type="m3u8" label="战旗影院17" src="http://dlhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8" />
+<m type="m3u8" label="战旗影院18" src="http://dlhls.cdn.zhanqi.tv/zqlive/120565_5TBad.m3u8" />
+<m type="m3u8" label="战旗影院19" src="http://dlhls.cdn.zhanqi.tv/zqlive/41943_UugSg.m3u8" />
+<m type="m3u8" label="战旗影院20" src="http://dlhls.cdn.zhanqi.tv/zqlive/96851_ZeePd.m3u8" />
+<m type="m3u8" label="战旗影院21" src="http://dlhls.cdn.zhanqi.tv/zqlive/90819_iMmHS.m3u8" />
+<m type="m3u8" label="战旗猪猪相声" src="http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8" />
+<m type="m3u8" label="钓鱼" src="http://live.gslb.letv.com/gslb?stream_id=lb_zczb7_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="军事" src="http://live.gslb.letv.com/gslb?stream_id=lb_jslw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="江湖" src="http://live.gslb.letv.com/gslb?stream_id=lb_xajh_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="综艺" src="http://live.gslb.letv.com/gslb?stream_id=lb_ent_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="电影" src="http://live.gslb.letv.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="奔跑" src="http://live.gslb.letv.com/gslb?stream_id=lb_bpbxd&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="香港" src="http://live.gslb.letv.com/gslb?stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="剧场" src="http://live.gslb.letv.com/gslb?stream_id=lb_tv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="高清" src="http://live.gslb.letv.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="动作" src="http://live.gslb.letv.com/gslb?stream_id=lb_dzdy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="喜剧" src="http://live.gslb.letv.com/gslb?stream_id=lb_comedy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="MV" src="http://live.gslb.letv.com/gslb?stream_id=lb_mv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="音乐" src="http://live.gslb.letv.com/gslb?stream_id=lb_music_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="广场" src="http://live.gslb.letv.com/gslb?stream_id=lb_gcw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="体育" src="http://live.gslb.letv.com/gslb?stream_id=lb_sports_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="篮球" src="http://live.gslb.letv.com/gslb?stream_id=lb_lanqiu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="演唱" src="http://live.gslb.letv.com/gslb?stream_id=lb_concert_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="凤奇" src="http://live.gslb.letv.com/gslb?stream_id=lb_fhcq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="成龙" src="http://live.gslb.letv.com/gslb?stream_id=lb_cl_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="星驰" src="http://live.gslb.letv.com/gslb?stream_id=lb_zxc_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="军旅" src="http://live.gslb.letv.com/gslb?stream_id=lb_kangz_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="片花" src="http://live.gslb.letv.com/gslb?stream_id=lb_trailer_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="軍事瞭望" src="http://live.gslb.letv.com/gslb?stream_id=lb_jslw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="乐视电影" src="http://live.gslb.letv.com/gslb?stream_id=lb_movie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="乐视动作电影" src="http://live.gslb.letv.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="乐视香港电影" src="http://live.gslb.letv.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="乐视喜剧电影" src="http://live.gslb.letv.com/gslb?stream_id=lb_comedy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="乐视周星驰影视" src="http://live.gslb.letv.com/gslb?stream_id=lb_zxc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="乐视成龙影视" src="http://live.gslb.letv.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="乐视好莱坞" src="http://live.gslb.letv.com/gslb?stream_id=lb_hlw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="乐视华语电影" src="http://live.gslb.letv.com/gslb?stream_id=lb_hydy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="乐视日韩电影" src="http://live.gslb.letv.com/gslb?stream_id=lb_rhdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="乐视电影片花" src="http://live.gslb.letv.com/gslb?stream_id=lb_trailer_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="廣場舞" src="http://live.gslb.letv.com/gslb?stream_id=lb_gcw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="籃球" src="http://live.gslb.letv.com/gslb?stream_id=lb_lanqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="動物世界" src="http://live.gslb.letv.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="花樣姐姐" src="http://live.gslb.letv.com/gslb?stream_id=lb_hyjj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="紀錄片" src="http://live.gslb.letv.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="宮鬥劇場" src="http://live.gslb.letv.com/gslb?stream_id=lb_gdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="都市劇場" src="http://live.gslb.letv.com/gslb?stream_id=lb_dsjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="亮劍" src="http://live.gslb.letv.com/gslb?stream_id=lb_liangjian_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="綜合" src="http://live.gslb.letv.com/gslb?stream_id=lb_zonghe_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="甄嬛傳" src="http://live.gslb.letv.com/gslb?stream_id=lb_zhenhuan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="羋月傳" src="http://live.gslb.letv.com/gslb?stream_id=lb_myz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="琅琊榜" src="http://live.gslb.letv.com/gslb?stream_id=lb_lyb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="電視劇" src="http://live.gslb.letv.com/gslb?stream_id=lb_yst_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="笑傲江湖" src="http://live.gslb.letv.com/gslb?stream_id=lb_xajh_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="粵語頻道" src="http://live.gslb.letv.com/gslb?stream_id=lb_yylbpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="鳳凰傳奇" src="http://live.gslb.letv.com/gslb?stream_id=lb_fhcq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="滿倉進城" src="http://live.gslb.letv.com/gslb?stream_id=lb_mcjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="龍門鏢局" src="http://live.gslb.letv.com/gslb?stream_id=lb_lmbj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="女醫明妃傳" src="http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_xmblzjh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="歡樂喜劇人" src="http://live.gslb.letv.com/gslb?stream_id=lb_hlxjr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="春節大聯歡" src="http://live.gslb.letv.com/gslb?stream_id=lb_myzqjx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="奔跑吧兄弟" src="http://live.gslb.letv.com/gslb?stream_id=lb_bpbxd&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+<m type="m3u8" label="成龙" src="http://live.gslb.letv.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1" />
+</m>
+</list>
