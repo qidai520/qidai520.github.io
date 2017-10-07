@@ -1,0 +1,576 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+PRE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+FIELDSET {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+INPUT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TEXTAREA {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BLOCKQUOTE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BODY {
+	FONT: 12px/1.5 Tahoma, "宋体"
+}
+BUTTON {
+	FONT: 12px/1.5 Tahoma, "宋体"
+}
+INPUT {
+	FONT: 12px/1.5 Tahoma, "宋体"
+}
+TEXTAREA {
+	FONT: 12px/1.5 Tahoma, "宋体"
+}
+OL {
+	LIST-STYLE-TYPE: none
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+H1 {
+	FONT-SIZE: 100%
+}
+H2 {
+	FONT-SIZE: 100%
+}
+H3 {
+	FONT-SIZE: 100%
+}
+H4 {
+	FONT-SIZE: 100%
+}
+H5 {
+	FONT-SIZE: 100%
+}
+H6 {
+	FONT-SIZE: 100%
+}
+FIELDSET {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; VERTICAL-ALIGN: top; BORDER-RIGHT-WIDTH: 0px
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; VERTICAL-ALIGN: top; BORDER-RIGHT-WIDTH: 0px
+}
+TABLE {
+	BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+ADDRESS {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+CAPTION {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+CITE {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+CODE {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+DFN {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+EM {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+TH {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+VAR {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+A {
+	CURSOR: pointer; COLOR: #2387b5; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #57a7eb; TEXT-DECORATION: none
+}
+BODY {
+	COLOR: #2387b5
+}
+.bg {
+	BACKGROUND: #fff
+}
+.search {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.boxt {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.boxb {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.boxtl {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.boxtr {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.boxbl {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.boxbr {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.btn2 {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.btn3 {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.btn4 {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.applist .tit1 {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.applist .tit2 {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.applist .tit3 {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.applist .tit4 {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.applist .tit5 {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.applist .tit6 {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.nav {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.navl {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.navr {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.nav A.cur {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.btn5 {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.btn6 {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.btn7 {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.tit7 {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.tit8 {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/imgbg.png) no-repeat
+}
+.header {
+	CLEAR: both; MARGIN: 0px auto; WIDTH: 902px; HEIGHT: 55px
+}
+.header H1 {
+	DISPLAY: inline; BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="http://520.ucoz.net/1/app/css/logo.png"); FLOAT: left; MARGIN: 7px 28px 0px 3px; OVERFLOW: hidden; WIDTH: 171px; LINE-HEIGHT: 200px; HEIGHT: 32px
+}
+.search {
+	FLOAT: left; MARGIN: 7px 0px 0px; WIDTH: 382px; HEIGHT: 34px
+}
+.search .ipt1 {
+	BORDER-RIGHT: #fff 1px solid; BORDER-TOP: #fff 1px solid; FLOAT: left; MARGIN: 3px 0px 0px 3px; BORDER-LEFT: #fff 1px solid; WIDTH: 305px; LINE-HEIGHT: 26px; BORDER-BOTTOM: #fff 1px solid; HEIGHT: 26px
+}
+.search .btn1 {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; MARGIN: 3px 0px 0px 1px; WIDTH: 68px; CURSOR: pointer; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 28px; BORDER-BOTTOM-STYLE: none
+}
+.header SPAN {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; PADDING-TOP: 10px
+}
+.wrap {
+	MARGIN: 0px auto; WIDTH: 902px
+}
+.box {
+	CLEAR: both; MARGIN-BOTTOM: 7px; POSITION: relative
+}
+.boxt {
+	CLEAR: both; BACKGROUND-POSITION: 0px -66px; FONT-SIZE: 0px; MARGIN: 0px 8px; LINE-HEIGHT: 0px; BACKGROUND-REPEAT: repeat-x; POSITION: relative; HEIGHT: 8px
+}
+.boxb {
+	CLEAR: both; BACKGROUND-POSITION: 0px -66px; FONT-SIZE: 0px; MARGIN: 0px 8px; LINE-HEIGHT: 0px; BACKGROUND-REPEAT: repeat-x; POSITION: relative; HEIGHT: 8px
+}
+.boxb {
+	BACKGROUND-POSITION: 0px -75px
+}
+.boxtl {
+	OVERFLOW: hidden; WIDTH: 8px; HEIGHT: 8px
+}
+.boxtr {
+	OVERFLOW: hidden; WIDTH: 8px; HEIGHT: 8px
+}
+.boxbl {
+	OVERFLOW: hidden; WIDTH: 8px; HEIGHT: 8px
+}
+.boxbr {
+	OVERFLOW: hidden; WIDTH: 8px; HEIGHT: 8px
+}
+.boxtl {
+	BACKGROUND-POSITION: 0px -57px; LEFT: -8px; POSITION: absolute; TOP: 0px
+}
+.boxtr {
+	BACKGROUND-POSITION: -9px -57px; RIGHT: -8px; POSITION: absolute; TOP: 0px
+}
+.boxbl {
+	BACKGROUND-POSITION: -18px -57px; LEFT: -8px; POSITION: absolute; TOP: 0px
+}
+.boxbr {
+	BACKGROUND-POSITION: -27px -57px; RIGHT: -8px; POSITION: absolute; TOP: 0px
+}
+.boxc {
+	CLEAR: both; BORDER-RIGHT: #d6eef4 1px solid; BACKGROUND: #fff; BORDER-LEFT: #d6eef4 1px solid
+}
+.applist .tit7 {
+	BACKGROUND-POSITION: 0px -430px; PADDING-LEFT: 35px; LEFT: 0px; WIDTH: 76px; COLOR: #fff; LINE-HEIGHT: 33px; POSITION: absolute; TOP: -5px; HEIGHT: 36px; TEXT-ALIGN: left
+}
+.applist .tit8 {
+	BACKGROUND-POSITION: 0px -430px; PADDING-LEFT: 35px; LEFT: 0px; WIDTH: 76px; COLOR: #fff; LINE-HEIGHT: 33px; POSITION: absolute; TOP: -5px; HEIGHT: 36px; TEXT-ALIGN: left
+}
+.applist .tit8 {
+	BACKGROUND-POSITION: 0px -476px
+}
+.applist {
+	OVERFLOW: hidden; WIDTH: 900px
+}
+.applist H2 {
+	PADDING-RIGHT: 25px; PADDING-LEFT: 25px; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; COLOR: #57a7eb; LINE-HEIGHT: 20px; PADDING-TOP: 2px; HEIGHT: 20px
+}
+.applist H2 SPAN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.applist H2 A {
+	COLOR: #57a7eb
+}
+.applist H2 A:hover {
+	COLOR: #2387b5
+}
+.applist UL {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 7px; PADDING-BOTTOM: 0px; OVERFLOW: hidden; WIDTH: 920px; PADDING-TOP: 26px; ZOOM: 1
+}
+.applist LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 19px; FLOAT: left; PADDING-BOTTOM: 15px; WIDTH: 208px; LINE-HEIGHT: 18px; PADDING-TOP: 10px
+}
+.applist LI IMG {
+	FLOAT: left; MARGIN-RIGHT: 16px
+}
+.applist LI H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; COLOR: #2387b5; LINE-HEIGHT: 14px; PADDING-TOP: 3px
+}
+.applist LI EM {
+	DISPLAY: block; PADDING-BOTTOM: 2px; COLOR: #787878
+}
+.btn2 {
+	BACKGROUND-POSITION: 0px -35px; DISPLAY: block; FLOAT: left; WIDTH: 48px; LINE-HEIGHT: 21px; HEIGHT: 21px; TEXT-ALIGN: center
+}
+.btn4 {
+	BACKGROUND-POSITION: 0px -35px; DISPLAY: block; FLOAT: left; WIDTH: 48px; LINE-HEIGHT: 21px; HEIGHT: 21px; TEXT-ALIGN: center
+}
+.btn3 {
+	BACKGROUND-POSITION: 0px -35px; DISPLAY: block; FLOAT: left; WIDTH: 48px; LINE-HEIGHT: 21px; HEIGHT: 21px; TEXT-ALIGN: center
+}
+.btn2:hover {
+	BACKGROUND-POSITION: -147px -35px
+}
+.btn3 {
+	BACKGROUND-POSITION: -49px -35px; COLOR: #e67a0e
+}
+.btn3:hover {
+	BACKGROUND-POSITION: -196px -35px; COLOR: #ec8f33
+}
+.btn4 {
+	BACKGROUND-POSITION: -98px -35px; COLOR: #c0c0c4
+}
+.applist1 UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 15px; PADDING-TOP: 0px
+}
+.applist1 LI {
+	PADDING-RIGHT: 13px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; WIDTH: 100px; PADDING-TOP: 10px; TEXT-ALIGN: center
+}
+.applist1 LI IMG {
+	FLOAT: none; MARGIN: 0px 0px 6px
+}
+.applist2 LI IMG {
+	FLOAT: none; MARGIN: 0px 0px 6px
+}
+.applist1 LI H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; PADDING-TOP: 0px
+}
+.applist2 LI H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; PADDING-TOP: 0px
+}
+.applist1 .btn2 {
+	FLOAT: none; MARGIN: 0px auto
+}
+.applist1 .btn3 {
+	FLOAT: none; MARGIN: 0px auto
+}
+.applist1 .btn4 {
+	FLOAT: none; MARGIN: 0px auto
+}
+.applist .tit1 {
+	BACKGROUND-POSITION: 25px -92px; PADDING-LEFT: 53px
+}
+.applist .tit2 {
+	BACKGROUND-POSITION: 25px -123px; PADDING-LEFT: 53px
+}
+.applist .tit3 {
+	BACKGROUND-POSITION: 25px -154px; PADDING-LEFT: 53px
+}
+.applist .tit4 {
+	BACKGROUND-POSITION: 25px -185px; PADDING-LEFT: 53px
+}
+.applist .tit5 {
+	BACKGROUND-POSITION: 25px -217px; PADDING-LEFT: 53px
+}
+.applist .tit6 {
+	BACKGROUND-POSITION: 25px -248px; PADDING-LEFT: 53px
+}
+.applist2 UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; PADDING-BOTTOM: 8px
+}
+.applist2 LI {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; WIDTH: 82px; PADDING-TOP: 10px; TEXT-ALIGN: center
+}
+.line {
+	CLEAR: both; BACKGROUND: url(http://520.ucoz.net/1/app/css/line.png) repeat-x; MARGIN: 5px 25px 15px; OVERFLOW: hidden; HEIGHT: 1px
+}
+.fl {
+	FLOAT: left
+}
+.appliat2 {
+	PADDING-RIGHT: 50px; PADDING-LEFT: 8px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.appliat2 LI {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(http://520.ucoz.net/1/app/css/line.png) repeat-x 50% bottom; PADDING-BOTTOM: 20px; OVERFLOW: hidden; PADDING-TOP: 25px; ZOOM: 1
+}
+.appliat2 LI.bgn {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.appliat2 LI IMG {
+	FLOAT: left; MARGIN: 2px 0px 0px
+}
+.appliat2 LI H3 {
+	FONT-SIZE: 14px
+}
+.appliat2 LI P {
+	COLOR: #787878
+}
+.appliat2 .fl {
+	PADDING-LEFT: 35px; WIDTH: 620px
+}
+.appliat2 .btn5 {
+	FLOAT: right
+}
+.appliat2 .btn6 {
+	FLOAT: right
+}
+.appliat2 .btn7 {
+	FLOAT: right
+}
+.btn5 {
+	BACKGROUND-POSITION: 0px -343px; DISPLAY: block; WIDTH: 101px; COLOR: #fff; LINE-HEIGHT: 38px; HEIGHT: 38px; TEXT-ALIGN: center
+}
+.btn6 {
+	BACKGROUND-POSITION: 0px -343px; DISPLAY: block; WIDTH: 101px; COLOR: #fff; LINE-HEIGHT: 38px; HEIGHT: 38px; TEXT-ALIGN: center
+}
+.btn7 {
+	BACKGROUND-POSITION: 0px -343px; DISPLAY: block; WIDTH: 101px; COLOR: #fff; LINE-HEIGHT: 38px; HEIGHT: 38px; TEXT-ALIGN: center
+}
+.btn5:hover {
+	BACKGROUND-POSITION: -101px -343px; COLOR: #fff
+}
+.btn6 {
+	BACKGROUND-POSITION: 0px -382px; COLOR: #e67a0e
+}
+.btn6:hover {
+	BACKGROUND-POSITION: -101px -382px; COLOR: #e67a0e
+}
+.btn7 {
+	BACKGROUND-POSITION: -202px -343px; COLOR: #c0c0c4
+}
+.nav {
+	CLEAR: both; BACKGROUND-POSITION: 0px -311px; MARGIN: 0px 5px; BACKGROUND-REPEAT: repeat-x; POSITION: relative; HEIGHT: 31px
+}
+.navl {
+	BACKGROUND-POSITION: 0px -279px; LEFT: -5px; WIDTH: 5px; POSITION: absolute; TOP: 0px; HEIGHT: 31px
+}
+.navr {
+	BACKGROUND-POSITION: -6px -279px; RIGHT: -5px; WIDTH: 5px; POSITION: absolute; TOP: 0px; HEIGHT: 31px
+}
+.nav A {
+	FLOAT: left; MARGIN: 6px 0px 0px; WIDTH: 80px; COLOR: #9ba5ae; LINE-HEIGHT: 25px; HEIGHT: 25px; TEXT-ALIGN: center
+}
+.nav A:hover {
+	COLOR: #57a7eb
+}
+.nav A.cur {
+	BACKGROUND-POSITION: -12px -279px; FONT-WEIGHT: bold; COLOR: #687281
+}
+.page {
+	CLEAR: both; PADDING-RIGHT: 0px; BORDER-TOP: #d3d3d3 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 30px; PADDING-TOP: 12px; TEXT-ALIGN: center
+}
+.page A {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #cccccc 1px solid; DISPLAY: inline-block; PADDING-LEFT: 6px; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; MARGIN: 0px 2px; OVERFLOW: hidden; BORDER-LEFT: #cccccc 1px solid; COLOR: #848e97; LINE-HEIGHT: 21px; PADDING-TOP: 0px; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: "宋体"; HEIGHT: 20px
+}
+.page A:hover {
+	BORDER-RIGHT: #99cdf9 1px solid; BORDER-TOP: #99cdf9 1px solid; BACKGROUND: #ebf7fb; BORDER-LEFT: #99cdf9 1px solid; COLOR: #54a5ea; BORDER-BOTTOM: #99cdf9 1px solid
+}
+.page A.cur {
+	BORDER-RIGHT: #99cdf9 1px solid; BORDER-TOP: #99cdf9 1px solid; BACKGROUND: #ebf7fb; BORDER-LEFT: #99cdf9 1px solid; COLOR: #54a5ea; BORDER-BOTTOM: #99cdf9 1px solid
+}
+.guide {
+	PADDING-LEFT: 10px; FLOAT: left; COLOR: #687281; LINE-HEIGHT: 31px
+}
+.guide A {
+	FLOAT: none; COLOR: #9ba4b0
+}
+.guide A:hover {
+	COLOR: #57a7eb
+}
+.guide IMG {
+	VERTICAL-ALIGN: middle
+}
+.guide SPAN {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 0px; COLOR: #9ba4b0; PADDING-TOP: 0px
+}
+.guide .home {
+	MARGIN-TOP: 9px; BACKGROUND: url(http://520.ucoz.net/1/app/css/homeico.png) no-repeat; FLOAT: left; VERTICAL-ALIGN: middle; WIDTH: 15px; HEIGHT: 14px
+}
+.guide .home:hover {
+	BACKGROUND: url(http://520.ucoz.net/1/app/css/homeerico.png) no-repeat
+}
+.appcnt {
+	CLEAR: both; PADDING-RIGHT: 40px; PADDING-LEFT: 17px; PADDING-BOTTOM: 30px; OVERFLOW: hidden; PADDING-TOP: 30px; ZOOM: 1
+}
+.appcntl {
+	FLOAT: left; WIDTH: 75px; PADDING-TOP: 5px
+}
+.appcntr {
+	FLOAT: left; COLOR: #707070; LINE-HEIGHT: 25px; POSITION: relative
+}
+.appcntr H3 {
+	PADDING-RIGHT: 9px; DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 14px; COLOR: #3074b3
+}
+.appcntr DL {
+	CLEAR: both; OVERFLOW: hidden; ZOOM: 1
+}
+.appcntr DT {
+	FLOAT: left; WIDTH: 65px
+}
+.appcntr DD {
+	FLOAT: left; WIDTH: 673px
+}
+.line1 {
+	CLEAR: both; BACKGROUND: #c0ccda; MARGIN: 10px 0px; OVERFLOW: hidden; WIDTH: 100%; ZOOM: 1; HEIGHT: 1px
+}
+.appcntimg {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 20px; PADDING-TOP: 30px; TEXT-ALIGN: center
+}
+.appcntr .btn5 {
+	FONT-SIZE: 14px; RIGHT: 0px; POSITION: absolute; TOP: 0px
+}
+.appcntr .btn6 {
+	FONT-SIZE: 14px; RIGHT: 0px; POSITION: absolute; TOP: 0px
+}
+.appcntr .btn7 {
+	FONT-SIZE: 14px; RIGHT: 0px; POSITION: absolute; TOP: 0px
+}
+.tip {
+	CLEAR: both; DISPLAY: none; MARGIN: -5px auto 5px; WIDTH: 960px
+}
+.tipt {
+	CLEAR: both; BACKGROUND: url(http://520.ucoz.net/1/app/css/tip.png) no-repeat; MARGIN-LEFT: 28px; OVERFLOW: hidden; HEIGHT: 5px
+}
+.tipb {
+	CLEAR: both; BACKGROUND: url(http://520.ucoz.net/1/app/css/tip.png) no-repeat; MARGIN-LEFT: 28px; OVERFLOW: hidden; HEIGHT: 5px
+}
+.tipc {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(http://520.ucoz.net/1/app/css/tipc.png) repeat-y; PADDING-BOTTOM: 6px; MARGIN-LEFT: 28px; OVERFLOW: hidden; PADDING-TOP: 6px; ZOOM: 1
+}
+.tipb {
+	BACKGROUND-POSITION: 0px -6px; HEIGHT: 7px
+}
+.tipc DL {
+	CLEAR: both; PADDING-RIGHT: 18px; PADDING-LEFT: 18px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.tipc DT {
+	PADDING-RIGHT: 20px; FLOAT: left
+}
+.tipc DD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; COLOR: #60666f; LINE-HEIGHT: 25px; PADDING-TOP: 3px
+}
+.tipc DD A {
+	FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.tipc DD A:hover {
+	FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.footer {
+	PADDING-RIGHT: 0px; BORDER-TOP: #d3d3d3 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 30px; MARGIN: 10px auto 0px; WIDTH: 902px; COLOR: #787878; LINE-HEIGHT: 22px; PADDING-TOP: 15px; TEXT-ALIGN: center
+}
+.footer A {
+	COLOR: #787878
+}
