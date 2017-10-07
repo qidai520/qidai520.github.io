@@ -1,0 +1,256 @@
+﻿<list>
+<m label="网络电台" opened="1">
+<m type="wmp" label="地铁号线" src="mms://live2.vodone.com/ch34"/>
+<m type="wmp" label="珊瑚电台" src="mms://media.itinghai.com/tingmx"/>
+<m type="wmp" label="海底城堡" src="mms://radio.mx8087.cn/tingmx"/>
+<m type="wmp" label="华语青年" src="http://hy960.com/web/hy2.asx"/>
+<m type="wmp" label="猫扑电台" src="mms://ting.mop.com/mopradio"/>
+<m type="wmp" label="完美在线" src="mms://audio.wanmei.com/music"/>
+<m type="wmp" label="怀旧金曲" src="mms://live.cri.cn/oldies.wsx"/>
+<m type="wmp" label="都市流行" src="mms://live.cri.cn/pop.wsx"/>
+<m type="wmp" label="广东音乐" src="mms://live.fm993.com.cn/musicfm"/>
+<m type="wmp" label="福建音乐" src="mms://video.fjtv.net/yygb?ZHVob25n"/>
+<m type="wmp" label="乡村民谣" src="mms://live.cri.cn/country.wsx"/>
+<m type="wmp" label="ＱＱ金曲" src="http://live.cri.cn/oldies?qqradio"/>
+<m type="wmp" label="海底城堡" src="mms://radio.mx8087.cn/tingmx"/>
+<m type="wmp" label="中国之声" src="mms://mms.cnr.cn/cnr001"/>
+<m type="wmp" label="音乐之声" src="mms://mms.cnr.cn/cnr003"/>
+<m type="wmp" label="环球资讯" src="mms://media.crinewsradio.cn/crinewsradio.wsx"/>
+<m type="wmp" label="国际在线" src="mms://livexwb.cri.com.cn/chn.wsx"/>
+<m type="wmp" label="韩阿里郎" src="mms://s2.arirang.co.kr/FM_Live"/>
+<m type="wmp" label="股市广播" src="mms://live.rgd.com.cn/953"/>
+<m type="wmp" label="城市之声" src="mms://live.rgd.com.cn/1036"/>
+<m type="wmp" label="完美音乐" src="mms://audio.wanmei.com/music?cccode=cc1350"/>
+<m type="wmp" label="漳州综合" src="mms://koala.vicp.cc:1117/"/>
+<m type="wmp" label="漳州文艺" src="mms://koala.vicp.cc:1101"/>
+<m type="wmp" label="怀集电台" src="mms://mms.huaiji.biz/hjdt"/>
+<m type="wmp" label="宝岛客家" src="mms://bcr.media.hinet.net/RA000023"/>
+<m type="wmp" label="青苹果台" src="rtsp://mms.qpgsky.com/ting"/>
+</m>
+
+<m label="中央电台">
+<m src="rtsp://live.cri.cn/oldies.wsx" label="国际金曲" type="wmp" />
+<m src="rtsp://live.cri.cn/pop.wsx" label="国际都市" type="wmp" />
+<m src="rtsp://live.cri.cn/country.wsx" label="国际民谣" type="wmp" />
+<m src="rtsp://live.cri.cn/english" label="英语漫听" type="wmp" />
+<m src="rtsp://media.crinewsradio.cn/crinewsradio.wsx" label="环球资讯 " type="wmp" />
+<m src="rtsp://live.hitfm.cn/fm887.wsx" label="巅峰体坛" type="wmp" />
+<m src="rtsp://livexwb.cri.com.cn/fm915.wsx" label="国际广播" type="wmp" />
+<m src="rtsp://enmms.chinabroadcast.cn/fm91.5.wsx" label="国际广播" type="wmp" />
+<m src="rtsp://livexwb.cri.com.cn/kenya.wsx" label="国际广播" type="wmp" />
+<m src="rtsp://livexwb.cri.com.cn/lao" label="国际广播" type="wmp" />
+<m src="rtsp://livexwb.cri.com.cn/aus" label="国际广播" type="wmp" />
+<m src="rtsp://livexwb.cri.com.cn/am846.wsx" label="国际广播" type="wmp" />
+<m src="rtsp://enmms.chinabroadcast.cn/am1008" label="国际广播" type="wmp" />
+</m>
+
+
+<m label="好事联播">
+<m src="mms://bcr.media.hinet.net/RA000010" label="台中好事" type="wmp" />
+<m src="mms://bcr.media.hinet.net/RA000043" label="南投广播" type="wmp" />
+<m src="mms://bcr.media.hinet.net/RA000060" label="台湾之音" type="wmp" />
+</m>
+
+<m label="安徽电台">
+<m type="wmp" label="安徽新闻" src="mms://live.ahradio.com.cn/xwgb"/>
+<m type="wmp" label="安徽音乐" src="mms://live.ahradio.com.cn/yygb"/>
+<m type="wmp" label="安徽交通" src="mms://live.ahradio.com.cn/jtgb"/>
+<m type="wmp" label="安徽经济" src="mms://live.ahradio.com.cn/jjgb"/>
+<m type="wmp" label="安徽生活" src="mms://live.ahradio.com.cn/shgb"/>
+<m type="wmp" label="安徽农村" src="mms://live.ahradio.com.cn/ncgb"/>
+<m type="wmp" label="安徽旅游" src="mms://live.ahradio.com.cn/lygb"/>
+<m type="wmp" label="安徽戏曲" src="mms://live.ahradio.com.cn/xqgb"/>
+<m type="wmp" label="安徽小说" src="mms://live.ahradio.com.cn/xspsgb"/>
+</m>
+
+<m label="北京电台">
+<m type="wmp" label="北京新闻" src="mms://alive.rbc.cn/fm1006"/>
+<m type="wmp" label="北京音乐" src="mms://alive.rbc.cn/fm974"/>
+<m type="wmp" label="北京交通" src="mms://alive.rbc.cn/fm1039"/>
+<m type="wmp" label="北京文艺" src="mms://alive.rbc.cn/fm876"/>
+<m type="wmp" label="北京城管" src="mms://alive.rbc.cn/fm1073"/>
+<m type="wmp" label="北京体育" src="mms://alive.rbc.cn/fm1025"/>
+<m type="wmp" label="北京故事" src="mms://alive.rbc.cn/am603"/>
+<m type="wmp" label="北京外语" src="mms://alive.rbc.cn/am774"/>
+<m type="wmp" label="北京爱家" src="mms://alive.rbc.cn/am927"/>
+<m type="wmp" label="北京长书" src="mms://alive.rbc.cn/cfm1043"/>
+<m type="wmp" label="北京教学" src="mms://alive.rbc.cn/cfm994"/>
+<m type="wmp" label="北京欢乐" src="mms://alive.rbc.cn/cfm1065"/>
+<m type="wmp" label="北京戏曲" src="mms://alive.rbc.cn/cfm1051"/>
+<m type="wmp" label="北京通俗" src="mms://alive.rbc.cn/cfm970"/>
+<m type="wmp" label="北京怀旧" src="mms://alive.rbc.cn/cfm1075"/>
+<m type="wmp" label="北京古典" src="mms://alive.rbc.cn/cfm986"/>
+</m>
+
+<m label="福建电台">
+<m src="mms://video.fjtv.net/xwzhgb" label="福建新闻" type="wmp" />
+<m src="mms://video.fjtv.net/yygb" label="福建音乐" type="wmp" />
+<m src="mms://video.fjtv.net/jj" label="福建经济" type="wmp" />
+<m src="mms://video.fjtv.net/jt" label="福建交通" type="wmp" />
+<m src="mms://video.fjtv.net/dngb" label="福建东南" type="wmp" />
+<m src="mms://video.fjtv.net/fm987" label="福建生活" type="wmp" />
+<m src="mms://media.vos.com.cn/666" label="海峡新闻" type="wmp" />
+<m src="mms://media.vos.com.cn/783" label="海峡闽南" type="wmp" />
+<m src="mms://media.vos.com.cn/996" label="都市阳光" type="wmp" />
+<m src="mms://media.vos.com.cn/906" label="汽车生活" type="wmp" />
+<m src="mms://media.vos.com.cn/979" label="海峡综合" type="wmp" />
+<m src="mms://mediasrv2.iptv.xmg.com.cn/xinwen" label="厦门新闻" type="wmp" />
+<m src="mms://mediasrv2.iptv.xmg.com.cn/jingji" label="厦门经济" type="wmp" />
+<m src="mms://mediasrv2.iptv.xmg.com.cn/yinyue" label="厦门音乐" type="wmp" />
+<m src="mms://mediasrv2.iptv.xmg.com.cn/minnan" label="厦门闽南" type="wmp" />
+<m src="mms://mediasrv2.iptv.xmg.com.cn/tour" label="厦门旅游" type="wmp" />
+<m src="http://www.510173.com/radio/asx/fjzz1.asx" label="漳州文艺" type="wmp" />
+<m src="http://www.510173.com/radio/asx/fjzz2.asx" label="漳州综合" type="wmp" />
+</m>
+
+<m label="甘肃电台">
+<m src="mms://www.lzr.com.cn/media1" label="兰州新闻" type="wmp" />
+<m src="mms://www.lzr.com.cn/media2" label="兰州交通" type="wmp" />
+<m src="mms://www.lzr.com.cn/media3" label="兰州生活" type="wmp" />
+</m>
+
+<m label="广东电台">
+<m src="mms://live.rgd.com.cn/914" label="广东新闻" type="wmp" />
+<m src="mms://live.rgd.com.cn/974" label="珠江经济" type="wmp" />
+<m src="mms://live.fm993.com.cn/musicfm" label="广东音乐" type="wmp" />
+<m src="mms://live.rgd.com.cn/1036" label="城市之声" type="wmp" />
+<m src="mms://live.rgd.com.cn/1052" label="羊城交通" type="wmp" />
+<m src="mms://live.rgd.com.cn/936" label="南方生活" type="wmp" />
+<m src="mms://live.rgd.com.cn/953" label="广东股市" type="wmp" />
+<m src="mms://live.rgd.com.cn/1077" label="广东文体" type="wmp" />
+<m src="mms://live.rgd.com.cn/1057" label="汽车优悦" type="wmp" />
+<m src="mms://radio.sun0769.com/fm1008" label="东莞新闻" type="wmp" />
+<m src="mms://radio.sun0769.com/fm1075" label="东莞音乐" type="wmp" />
+<m src="mms://media.strtv.cn/strch1" label="汕头新闻" type="wmp" />
+<m src="mms://media.strtv.cn/strch2" label="汕头生活" type="wmp" />
+<m src="mms://media.strtv.cn/strch3" label="汕头交通" type="wmp" />
+<m src="mms://www.zhtv.com/fm875" label="珠海交通" type="wmp" />
+<m src="mms://www.zhtv.com/fm951" label="珠海新闻" type="wmp" />
+</m>
+
+<m label="广西电台">
+<m src="http://www.guilinradio.com/fm977.asx" label="桂林新闻" type="wmp" />
+<m src="http://www.guilinradio.com/fm883.asx" label="桂林飞扬" type="wmp" />
+<m src="mms://www.yldt.com/live_xw" label="玉林新闻" type="wmp" />
+<m src="mms://www.yldt.com/live_jt" label="玉林音乐" type="wmp" />
+<m src="mms://www.gxhzradio.com/News" label="贺州新闻" type="wmp" />
+<m src="mms://www.gxhzradio.com/Music" label="贺州交通" type="wmp" />
+</m>
+
+<m label="海南电台">
+<m src="mms://42.bluehn.com/LIVECAM8"  label="海南新闻" type="wmp" />
+<m src="mms://42.bluehn.com/LIVECAM10" label="海南汽车" type="wmp" />
+<m src="mms://42.bluehn.com/LIVECAM9"  label="海南交通" type="wmp" />
+<m src="mms://42.bluehn.com/LIVECAM10" label="海南文艺" type="wmp" />
+<m src="mms://43.bluehn.com/LIVECAM6"  label="海南旅游" type="wmp" />
+</m>
+
+<m label="河北电台">
+<m src="mms://audio1.hebradio.com/live1" label="河北新闻" type="wmp" />
+<m src="mms://audio1.hebradio.com/live2" label="河北经济" type="wmp" />
+<m src="mms://audio1.hebradio.com/live3" label="河北交通" type="wmp" />
+<m src="mms://audio1.hebradio.com/live6" label="河北音乐" type="wmp" />
+<m src="mms://audio1.hebradio.com/live5" label="河北生活" type="wmp" />
+<m src="mms://audio1.hebradio.com/live4" label="河北文艺" type="wmp" />
+<m src="mms://audio1.hebradio.com/live7" label="河北农村" type="wmp" />
+<m src="mms://audio1.hebradio.com/live8" label="河北旅游" type="wmp" />
+</m>
+
+<m label="湖北电台">
+<m src="mms://media.ganews.tv/live2" label="公安电台" type="wmp" />
+</m>
+
+<m label="湖南电台">
+<m src="mms://media.zzbtv.com/xwgb" label="株洲交通" type="wmp" />
+<m src="mms://media.zzbtv.com/jtgb" label="常德新闻" type="wmp" />
+<m src="mms://www.liuyangtv.com.cn/lygb" label="浏阳交通" type="wmp" />
+</m>
+
+<m label="江苏电台">
+<m src="mms://vod1.cztv.tv/fm100.1" label="常州城市" type="wmp" />
+<m src="mms://vod1.cztv.tv/fm105.2" label="常州交通" type="wmp" />
+<m src="mms://vod1.cztv.tv/fm90" label="常州娱乐" type="wmp" />
+<m src="mms://vod1.cztv.tv/fm1034" label="常州新闻" type="wmp" />
+<m src="mms://vod1.cztv.tv/846" label="常州生活" type="wmp" />
+<m src="mms://vod1.cztv.tv/846" label="常州戏曲" type="wmp" />
+<m src="mms://vod1.cztv.tv/1143" label="常州怀旧" type="wmp" />
+<m src="mms://vod1.cztv.tv/747" label="丹阳新闻" type="wmp" />
+<m src="mms://vod1.cztv.tv/927" label="丹阳音乐" type="wmp" />
+<m src="mms://vod.wjyanghu.com/radio" label="武进电台" type="wmp" />
+</m>
+
+<m label="江西电台">
+<m src="mms://tv.jxgdw.com/jswjxdt" label="九江音乐" type="wmp" />
+</m>
+
+<m label="内蒙电台">
+<m src="mms://rd.cfradio.cn/r1" label="内蒙汉语" type="wmp" />
+<m src="mms://rd.cfradio.cn/r4" label="内蒙交通" type="wmp" />
+<m src="mms://rd.cfradio.cn/r3" label="内蒙文艺" type="wmp" />
+<m src="mms://rd.cfradio.cn/r2" label="内蒙语言" type="wmp" />
+</m>
+
+<m label="宁夏电台">
+<m src="mms://gd.nxtv.cn:6666/1061" label="宁夏新闻" type="wmp" />
+<m src="mms://gd.nxtv.cn:6666/984"  label="宁夏交通" type="wmp" />
+<m src="mms://gd.nxtv.cn:6666/984"  label="宁夏经济" type="wmp" />
+<m src="mms://gd.nxtv.cn:6666/1037" label="宁夏都市" type="wmp" />
+</m>
+
+<m label="山东电台">
+<m src="mms://radiolive.jnnc.com/news" label="济南新闻" type="wmp" />
+<m src="mms://radiolive.jnnc.com/jingji" label="济南经济" type="wmp" />
+<m src="mms://radiolive.jnnc.com/jiaotong" label="济南交通" type="wmp" />
+<m src="mms://radiolive.jnnc.com/wenyi" label="济南文艺" type="wmp" />
+<m src="mms://radiolive.jnnc.com/music1" label="济南音乐" type="wmp" />
+<m src="mms://radiolive.jnnc.com/jngushi" label="济南故事" type="wmp" />
+<m src="http://www.qingdaomedia.com/qdgb.asx" label="青岛新闻" type="wmp" />
+<m src="http://www.qingdaomedia.com/jjgb.asx" label="青岛经济" type="wmp" />
+<m src="http://www.qingdaomedia.com/jtgb.asx" label="青岛交通" type="wmp" />
+<m src="http://www.qingdaomedia.com/ytgb.asx" label="青岛音乐" type="wmp" />
+<m src="http://www.qingdaomedia.com/wygb.asx" label="青岛文艺" type="wmp" />
+<m src="http://www.qingdaomedia.com/gsgb.asx" label="青岛故事" type="wmp" />
+<m src="mms://v.liaozhai.tv/radio1" label="淄博经济" type="wmp" />
+<m src="mms://v.liaozhai.tv/radio2" label="淄博文艺" type="wmp" />
+<m src="mms://v.liaozhai.tv/radio3" label="城市之声" type="wmp" />
+<m src="mms://v.liaozhai.tv/radio4" label="枣庄新闻" type="wmp" />
+<m src="http://www.zzbs.com.cn/html/ypbf/xwzh.asx" label="枣庄生活" type="wmp" />
+<m src="http://www.zzbs.com.cn/html/ypbf/shyl.asx" label="枣庄交通" type="wmp" />
+<m src="http://www.zzbs.com.cn/html/ypbf/yygb.asx" label="枣庄音乐" type="wmp" />
+<m src="mms://live.jnnews.tv:9009/xwgb"  label="济宁新闻" type="wmp" />
+<m src="mms://live.jnnews.tv:9009/jtgb"  label="济宁交通" type="wmp" />
+<m src="mms://live.jnnews.tv:9009/ylgb"  label="济宁娱乐" type="wmp" />
+<m src="mms://live.jnnews.tv:9009/jjgb"  label="济宁生活" type="wmp" />
+<m src="mms://av1.jiaodong.net/ytradio1" label="烟台新闻" type="wmp" />
+<m src="mms://av1.jiaodong.net/ytradio2" label="烟台经济" type="wmp" />
+<m src="mms://av1.jiaodong.net/ytradio3" label="烟台交通" type="wmp" />
+<m src="mms://av1.jiaodong.net/ytradio4" label="烟台音乐" type="wmp" />
+</m>
+
+<m label="新疆电台">
+<m src="mms://vod.xjbs.com.cn/1039" label="乌鲁木齐" type="wmp" />
+<m src="mms://vod.xjbs.com.cn/961" label="新疆电台" type="wmp" />
+<m src="mms://vod.xjbs.com.cn/738" label="新疆综合" type="wmp" />
+<m src="mms://vod.xjbs.com.cn/949" label="新疆交通" type="wmp" />
+<m src="mms://vod.xjbs.com.cn/929" label="新疆城市" type="wmp" />
+<m src="mms://vod.xjbs.com.cn/1028" label="新疆故事" type="wmp" />
+<m src="mms://vod.xjbs.com.cn/mky" label="新疆蒙古" type="wmp" />
+<m src="mms://vod.xjbs.com.cn/wywy" label="新疆文艺" type="wmp" />
+<m src="mms://vod.xjbs.com.cn/wy" label="新疆综合" type="wmp" />
+<m src="mms://vod.xjbs.com.cn/hay" label="哈萨克语" type="wmp" />
+<m src="mms://vod.xjbs.com.cn/mky" label="柯尔克语" type="wmp" />
+</m>
+
+<m label="浙江电台">
+<m src="mms://lmdb.nbradio.com/xwlive" label="宁波新闻" type="wmp" />
+<m src="mms://lmdb.nbradio.com/jjpd"   label="宁波经济" type="wmp" />
+<m src="mms://lmdb.nbradio.com/jtgb"   label="宁波交通" type="wmp" />
+<m src="mms://lmdb.nbradio.com/lsgb"   label="宁波老少" type="wmp" />
+<m src="mms://lmdb.nbradio.com/yygb"   label="宁波音乐" type="wmp" />
+<m src="mms://www.scbtv.cn/fm106" label="绍兴电台" type="wmp" />
+<m src="mms://live.hugd.com/xwzh_ra.wmv" label="湖州新闻" type="wmp" />
+<m src="mms://live.hugd.com/dswy_ra.wmv" label="湖州都市" type="wmp" />
+<m src="mms://live.hugd.com/jtjj_ra.wmv" label="湖州交通" type="wmp" />
+</m>
+
+</list>

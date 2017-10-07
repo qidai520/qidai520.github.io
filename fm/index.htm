@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>期待电台,期待396013905,广播电台在线收听,最全广播电台在线收听,好爱收音机</title>
+<meta name="keywords" content="广播电台在线收听,期待396013905,网络电台,在线电台,网上电台,电台大全,广播大全,网络广播,在线广播,音乐电台,电台在线收听,在线音乐电台,网上电台,网络广播,网上直播,网上广播,收音机,网上收音机,收音机在线收听,听收音,听收音机,好爱收音机" />
+<meta name="description" content="期待电台为您提供全国上千个网络电台在线试听 为您推荐最好听的音乐电台 最好听的网络电台 " />
+<style type="text/css">
+html, body { height:100%; margin:0; padding:0; text-align:center; background:#181818; }
+</style>
+</head>
+<body>
+<div id="player" style="width:100%;height:100%;"></div>
+<script type="text/javascript" src="tu/dt.js"></script> 
+<script type="text/javascript">
+var cmpo;
+function cmp_loaded(key) {
+	//cmp loaded
+	cmpo = CMP.get("cmp");
+	if (cmpo) {
+		//cmp callback
+		//alert(cmpo.config("version"));
+		cmpo.addEventListener("model_load", "cmp_model_load");
+	}
+}
+function cmp_model_load(data) {
+}
+var flashvars = {
+	api : "cmp_loaded"
+};
+//id, width, height, swf_url, flashvars, params, attrs
+var htm = CMP.create("cmp", "100%", "100%", "tu/dt.swf", flashvars);
+document.getElementById("player").innerHTML = htm;
+</script>
+</body>
+</html>
