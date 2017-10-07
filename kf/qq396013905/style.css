@@ -1,0 +1,62 @@
+﻿@xiongba "utf-8";
+/* www.tv6080.com */
+html{ _height:100%; overflow-y:scroll;}
+body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,lengend,button,input,textarea,th,td{ margin:0; padding:0;}
+body{ margin:0; padding:0; font:normal 12px/1.6em simsun,Tahoma, Verdana, Lucida, Arial, Helvetica, sans-serif; color:#979797; background:#FFF;}
+ol,ul,li{list-style:none;}
+input,select,img,button,textarea{ font-size:12px; font-family:Arial; vertical-align:middle;}
+img{ border:none;}
+button{ cursor:pointer;}
+h1,h2,h3,h4,h5,h6{ font-size:100%; font-weight:bold;}
+em{ font-style:normal;}
+dt,th,b,strong{ font-weight:bold;}
+a{ color:#0F85C5; text-decoration:none;}
+a:hover{ color:#F60; text-decoration:none;}
+.clearfix:after{ content:"."; display: block; clear:both; visibility:hidden; line-height:0; height:0;}
+.clearfix{ display:inline-block;}
+html[xmlns] .clearfix{ display: block;}
+*html .clearfix{ height:1%;}
+.c_txt1{ color:#0080D1;}
+.c_txt2{ color:#D37200;}
+.c_txt3{ color:#009904;}
+.header { width:970px;height:90px; line-height:90px; background-color:#277ac1; margin:0px auto 0;}
+.header div.wrap { width:970px; margin:0 auto; text-align:left; clear:both;}
+.header div.logo { float:left; margin-top:15px; }
+.header ul { float:right; }
+.header ul li { float:left; }
+.header ul li a { color:#fff; display:block; float:left; width:60px; text-align:center; font-size:14px; }
+.header ul li a:hover { background-color:#2375bc; color:#fff; text-decoration:none; }
+.nav li a:hover{ color:#FFF;}
+.nav li a:hover,
+.nav li a.selected{ color:#008DD7; background:url(nav_on.jpg) no-repeat 0px 0px;}
+.navSearch{ float:right; width:380px;}
+.footer { background-color:#277ac1; margin:0 auto; margin-top:0px;width:970px; height:50px; padding-top:30px; color:#a7cce4; }
+.footer a { color:#a7cce4; }
+.container{ width:970px; margin:0 auto; overflow:hidden; zoom:1;}
+
+
+
+/*框架页*/
+.catalog{ overflow:hidden; zoom:1; border:6px solid #277ac1; background:url(menu_bg.gif) repeat-y 0px 0px;}
+.catalog .menu{ float:left; width:200px; overflow:hidden; min-height:540px; _height:540px;}
+.catalog .menu .qstTitle{ height:42px; padding-top:13px; font-size:14px; color:#0080D1; border-bottom:1px solid #277ac1; border-right:1px solid #1C99E9; background:#FFF;}
+.catalog .menu .qstTitle span{ margin-left:20px; color:#3D4E5F; font-size:12px; font-weight:normal; }
+.catalog .menu .qstTitle img{ margin:0px 10px 0 20px;}
+.catalog .menu .qstType{ width:185px; margin:10px 0 10px 15px;}
+.catalog .menu .qstType li{ height:30px; margin-bottom:2px; line-height:30px; }
+.catalog .menu .qstType li a{ display:block; height:30px; padding-left:20px; color:#3D4E5F;}
+.catalog .menu .qstType li a:hover,
+.catalog .menu .qstType li .current{ background:url(menu_item.jpg) no-repeat 0px 0px;}
+.catalog .menu .qstType li .current{ font-weight:bold;}
+.catalog .content{ float:left; width:748px; padding:5px;}
+.catalog .content h3{ position:relative; height:30px; line-height:30px; padding-left:20px; background:#DDEAEE; font-size:14px; color:#3D4E5F;}
+.catalog .content h3 span.rt{ position:absolute; right:10px; top:0px; font-size:12px; font-weight:normal;}
+.catalog .content h4{ margin-bottom:5px; font-size:14px; color:#3D4E5F;}
+.catalog .content .con{ }
+.catalog .content .txt{ padding:10px 20px; line-height:20px; color:#005C97;}
+.catalog .content .confirm,
+.catalog .content .relateQuestion{ padding:10px 20px;}
+
+
+
+
