@@ -1,0 +1,25 @@
+<list>
+
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv2?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM2=&Provider_id=&Pcontent_id=" label="cctv2"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv3?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM3=&Provider_id=&Pcontent_id=" label="cctv3"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv4a?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM4=&Provider_id=&Pcontent_id=" label="cctv4"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv5?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM5=&Provider_id=&Pcontent_id=" label="cctv5"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv6?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM8=&Provider_id=&Pcontent_id=" label="cctv6"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv7?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM9=&Provider_id=&Pcontent_id=" label="cctv7"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv8?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM10=&Provider_id=&Pcontent_id=" label="cctv8"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv9?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM11=&Provider_id=&Pcontent_id=" label="cctv9"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv10?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM12=&Provider_id=&Pcontent_id=" label="cctv10"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv11?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM13=&Provider_id=&Pcontent_id=" label="cctv11"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv12?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM14=&Provider_id=&Pcontent_id=" label="cctv12"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv13?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM15=&Provider_id=&Pcontent_id=" label="cctv13"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv14?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM16=&Provider_id=&Pcontent_id=" label="cctv14"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv15?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM17=&Provider_id=&Pcontent_id=" label="cctv15"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/bjws?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM23=&Provider_id=&Pcontent_id=" label="beijing"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/szws?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM25=&Provider_id=&Pcontent_id=" label="shenzhen"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/sdws?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM30=&Provider_id=&Pcontent_id=" label="dongfang"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/lnws?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM34=&Provider_id=&Pcontent_id=" label="liaolin"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/dnws?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM43=&Provider_id=&Pcontent_id=" label="dongnan"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/gxws?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM44=&Provider_id=&Pcontent_id=" label="guangxi"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/lyws?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM47=&Provider_id=&Pcontent_id=" label="yuyou"/>
+
+  </list>

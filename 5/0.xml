@@ -1,0 +1,62 @@
+<list>
+<m list_src="http://up.51xxs.com/users/public/1502347924_631843.swf" label="DJ舞曲 ..." />
+<m list_src="http://tv6080.pronvod.com/music/qq.php?m=webqq" label="网络音乐 ..." />
+<m list_src="http://up.51xxs.com/users/public/1502347585_630536.swf" label="微笑江湖" />
+<m list_src="http://up.51xxs.com/users/public/1502347546_530164.swf" label="当众社交" />
+<m list_src="http://tv6080.pronvod.com/xiu/yy.php" label="美拍艺人" /> 
+<m list_src="http://up.51xxs.com/users/public/1507037691_794849.swf" label="央视卫视" />
+<!-->
+<m list_src="http://up.51xxs.com/users/public/1505472202_781464.swf" label="央视标清" />
+<m list_src="http://up.51xxs.com/users/public/1506917447_979870.swf" label="有线ip" /> 
+<m list_src="http://up.51xxs.com/users/public/1505974145_858707.swf" label="乐视云TV" /> 
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv4a?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM4=&Provider_id=&Pcontent_id=" label="cctv4"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv9?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM4=&Provider_id=&Pcontent_id=" label="cctv9"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv10?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM4=&Provider_id=&Pcontent_id=" label="cctv10"/>
+<m type="m3u8" src="http://121.31.20.139:8114/itv/cctv13?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM4=&Provider_id=&Pcontent_id=" label="cctv13"/>
+<-->
+<m label="电视直播" opened="1">
+
+<m type="m3u8" src="http://111.13.42.8/PLTV/88888888/224/3221225942/index.m3u8" label="中文 ，"/>
+<m type="m3u8" src="http://111.13.42.8/PLTV/88888888/224/3221225941/index.m3u8" label="资讯 ，"/>
+<m rtmp="rtmp://livertmp-al.wasu.cn/live2/" src="cctv4"  label="cctv4"/>
+<m rtmp="rtmp://livertmp-al.wasu.cn/live/" src="cctv9"  label="cctv9"/>
+<m rtmp="rtmp://livertmp-al.wasu.cn/live10/" src="cctv10"  label="cctv10"/>
+<m rtmp="rtmp://livertmp-al.wasu.cn/live9/" src="cctv13"  label="cctv13"/>
+<m rtmp="rtmp://livertmp-al.wasu.cn/live11/" src="hd_cctv5" label="cctv5"/>
+<m rtmp="rtmp://livertmp-al.wasu.cn/live11/" src="hd_cctv5jia" label="cctv5+ "/>
+
+<m rtmp="rtmp://livertmp-al.wasu.cn/live15/" src="hd_ahws" label="安徽 ，"/>
+<m rtmp="rtmp://livertmp-al.wasu.cn/live12/" src="hd_zjws" label="浙江 ，"/>
+<m src="http://aoyunhui.cietv.com/dl/imgo.php?id=287"  label="动漫 ，"/>
+<m src="http://aoyunhui.cietv.com/dl/imgo.php?id=344"  label="娱乐 ，"/>
+<m rtmp="rtmp://rtmp-source.live.panda.tv/live_panda/" src="578ab918538ddc3ef5b941dec471b482" label="新三国 ，，" />
+<m rtmp="rtmp://aldirect.rtmp.huya.com/huyalive/" src="94525224-2460685313-10568562945082523648-2789274524-10057-A-1504604924-1" label="周星驰 ，，"/>
+<m rtmp="rtmp://ps30.live.panda.tv/live_panda/" src="501a0e7572fcd8d4483ac1aaa40c0173" label="武侠剧 ，，" />
+<m rtmp="rtmp://ps30.live.panda.tv/live_panda/" src="51f087c19d038d7a825d81f3f25b6431" label="经典剧 ，，" />
+<m rtmp="rtmp://aldirect.rtmp.huya.com/huyalive/" src="30765679-2484192728-10669526523721023488-2847687506-10057-A-1496215393-1" label="高分片 ，，"/>
+<m rtmp="rtmp://al.rtmp.huya.com/huyalive/" src="30765679-2484192648-10669526180123639808-2847699104-10057-A-1502041228-1" label="灾难片 ，，"/>
+<m rtmp="rtmp://yfhdl.cdn.zhanqi.tv/zqlive/" src="133054_DUalN"  label="恐怖片 ，，"/>
+<m rtmp="rtmp://yfhdl.cdn.zhanqi.tv/zqlive/" src="56108_JxHhQ_720p"  label="精品片 ，，"/>
+<m rtmp="rtmp://yfhdl.cdn.zhanqi.tv/zqlive/" src="181869_nWqp2"  label="鑫影厅 ，，"/>
+<m rtmp="rtmp://aldirect.rtmp.huya.com/huyalive/" src="30765679-2523417353-10837995005293887488-2847699118-10057-A-1506738553-1" label="新三国 ，，"/>
+<m rtmp="rtmp://pl11.live.panda.tv/live_panda/" src="5e375d972896e978b5a202ce766f1d18_mid" label="荒野生存 ，，" />
+<m rtmp="rtmp://pl12.live.panda.tv/live_panda/" src="54f5f57684d5a9408b35442424c5bcbf_mid" label="荒野生存 ，，" />
+<m rtmp="rtmp://aldirect.rtmp.huya.com/huyalive/" src="94525224-2460685864-10568565311609503744-2789274536-10057-A-1501035756-1" label="囧囧趣事 ，，"/>
+<m rtmp="rtmp://bvc.live-play.acgvideo.com/live-bvc/" src="live_22193051_7200840"  label="海绵宝宝 ，，" />
+<m rtmp="rtmp://aldirect.rtmp.huya.com/huyalive/" src="30765679-2523417153-10837994146300428288-3048959658-10057-A-1496215475-1" label="笑傲江湖 ，，"/>
+<m type="m3u8" src="http://bplay.g3proxy.lecloud.com/gslb?stream_id=lb_loop_ttly_1300&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&tag=live&expect=3" label="时装时尚 ，，"/>
+<m rtmp="rtmp://lss.gztv.com/live/" src="gzbn_shaoer" label="广州少儿 ，，" />
+<m rtmp="rtmp://lss.gztv.com/live/" src="gzbn_tv" label="广州综合 ，，" />
+<m type="m3u8" src="http://sk.cri.cn/905.m3u8" label="环球资讯（FM）"/>
+<m type="m3u8" src="http://sk.cri.cn/oldies.m3u8" label="怀旧金曲（FM）"/>
+<m rtmp="rtmp://rtmp-source.live.panda.tv/live_panda/" src="ee65a982b124172fc899620dbea1ef94" label="怪兽电音（MV）" />
+<m src="http://lhttp.qingting.fm/live/386/64k.mp3" label="中国之声（FM）"/>
+<m src="http://lhttp.qingting.fm/live/388/64k.mp3" label="音乐之声（FM）"/>
+<m rtmp="rtmp://mms.hdbs.cn:1937/live/" src="hdyygbzb" label="邯郸音乐（FM），" />
+<m rtmp="rtmp://mms.hdbs.cn:1937/live/" src="dyjzb" label="邯郸娱乐（FM），"/>
+<m rtmp="rtmp://111.75.206.134/live/" src="yygb" label="江西音乐（FM），" />
+
+</m>
+
+
+</list>
